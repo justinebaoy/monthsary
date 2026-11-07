@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Neutral photo placeholder with a tulip illustration">
+  <rect width="800" height="1000" fill="#f3ede3"/>
+  <rect x="28" y="28" width="744" height="944" fill="none" stroke="#c9b9a6" stroke-width="1.5" stroke-dasharray="7 9"/>
+  <path d="M28 92h34M92 28v34M772 908h-34M708 972v-34" stroke="#a99680" stroke-width="1.5"/>
+
+  <text x="64" y="106" fill="#7f6d5d" font-family="Georgia, 'Times New Roman', serif" font-size="17" letter-spacing="4">PHOTO 03</text>
+  <text x="736" y="106" text-anchor="end" fill="#a28f7c" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="3">PLACEHOLDER</text>
+
+  <ellipse cx="400" cy="796" rx="118" ry="13" fill="#d8cab8" opacity=".6"/>
+
+  <g stroke-linecap="round">
+    <path d="M400 782V452" stroke="#7f906d" stroke-width="5"/>
+    <path d="M400 662c-68-14-110-58-118-120 62 10 106 54 118 120Z" fill="#a7b694" stroke="#7f906d" stroke-width="3"/>
+    <path d="M400 610c67-18 107-62 111-124-61 12-103 57-111 124Z" fill="#bcc9aa" stroke="#7f906d" stroke-width="3"/>
+    <path d="M400 452c-48-10-77-52-72-106 9-30 27-53 47-63 8 33 15 66 25 89 10-23 17-56 25-89 20 10 38 33 47 63 5 54-24 96-72 106Z" fill="#e3b7a4" stroke="#bd8873" stroke-width="3"/>
+    <path d="M400 448c-24-30-31-75-22-118 8-22 17-36 22-47 5 11 14 25 22 47 9 43 2 88-22 118Z" fill="#f0d4c8"/>
+    <path d="M354 359c9 24 24 47 46 76-41-10-65-44-68-88 5 5 13 8 22 12Z" fill="#f0d4c8" opacity=".55"/>
+    <path d="M446 359c-9 24-24 47-46 76 41-10 65-44 68-88-5 5-13 8-22 12Z" fill="#f6e2da" opacity=".55"/>
+    <path d="M385 331c7 18 11 39 15 64" fill="none" stroke="#faece7" stroke-width="3" opacity=".6"/>
+  </g>
+
+  <text x="400" y="858" text-anchor="middle" fill="#6f5f50" font-family="Georgia, 'Times New Roman', serif" font-size="24" letter-spacing="2">ADD YOUR PHOTO HERE</text>
+  <text x="400" y="894" text-anchor="middle" fill="#9a8875" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">REPLACE THIS PLACEHOLDER IN ASSETS/PHOTOS</text>
+
+  <g fill="#b8a58f" font-family="Arial, sans-serif" font-size="11" letter-spacing="2">
+    <text x="64" y="932">PHOTO 03</text>
+    <text x="736" y="932" text-anchor="end">TULIP THEME</text>
+  </g>
+</svg>
+
