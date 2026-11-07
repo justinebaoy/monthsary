@@ -1,0 +1,6 @@
+# Monthsary - a personal site.
+# Crawling is allowed so crawlers can read the noindex meta tags on each page.
+# Please do not index or archive any part of it.
+
+User-agent: *
+Allow: /
